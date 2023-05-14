@@ -1,0 +1,99 @@
+.navbar.navbar-expand-lg.navbar-dark.bg-info.mb-5 {
+  background-color: #45526e !important;
+  margin: 0 !important;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+/* ========== PRODUCT ========= */
+
+#product .container {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+
+
+
+
+
+/* ========== ABOUT ========= */
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  transition: all 0.5s ease-in-out;
+}
+
+a:hover {
+  transition: all 0.5s ease-in-out;
+}
+
+
+#tentang-kami {
+  background: #75b2c4;
+  width: 100%;
+  margin: 100px auto;
+  padding: 100px;
+}
+
+
+
+
+.about-us-info h2 {
+  color: white;
+  font-size: 40pt;
+  text-align: center;
+}
+
+
+.about-us-info p {
+  color: white;
+  font-size: 14pt;
+  text-align: center;
+}
+
+
+.about-us-info a {
+  background-color: white;
+  color: #0c4c91;
+  text-align: center;
+  font-size: 14pt;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.Selengkapnya{
+  background-color: #75b2c4 ;
+}
+
+.LOGIN{
+  color: #75b2c4;
+}
+
+.LOGIN:hover{
+  background-color: #75b2c4;
+  border-color: #75b2c4;
+}
+
+body#login.bg-primary{
+  background-color: #75b2c4 !important;
+}
+
+.login1{
+  
+  background-color: #75b2c4 !important;
+}
+
+body#register.bg-primary{
+  background-color: #75b2c4 !important;
+}
+.register{
+  
+  background-color: #75b2c4 !important;
+}
+
